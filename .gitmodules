@@ -1,0 +1,4 @@
+[submodule "xlsxio"]
+	path = xlsxio
+	url = https://github.com/brechtsanders/xlsxio.git
+	branch = master
