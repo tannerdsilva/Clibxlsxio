@@ -1,0 +1,3 @@
+module Cbzip2 {
+	export *
+}
